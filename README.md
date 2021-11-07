@@ -6,8 +6,8 @@
 - nhà cung cấp(NCC)
 - đơn hàng
 
-Trường nào số 1 trong bảng thì là Primary key <space>
-Trường nào số 2 mà có id ở sau thì là Foreign key
+###Trường nào số 1 trong bảng thì là Primary key
+###Trường nào số 2 mà có id ở sau thì là Foreign key
 
 * Hang(hang_id, ncc_id, tên_sp, mau_sac, so_luong)
 * Shipper(shipper_id, ten_shipper, ngay_sinh, dia_chi, luong)
