@@ -6,7 +6,7 @@
 - nhà cung cấp(NCC)
 - đơn hàng
 
-Trường nào số 1 trong bảng thì là Primary key \n
+Trường nào số 1 trong bảng thì là Primary key <space><space>
 Trường nào số 2 mà có id ở sau thì là Foreign key
 
 * Hang(hang_id, ncc_id, tên_sp, mau_sac, so_luong)
