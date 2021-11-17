@@ -1,0 +1,10 @@
+- Đưa ra thông tin của các nhà cung cấp và mặt hàng họ cung ứng
+- Đưa ra tên khách hàng, thông tin mặt hàng họ đặt và tên nhà cung cấp mặt hàng
+- Đưa tên shipper, tên khách hàng, tên mặt hàng và số lượng mặt hàng phải giao trước ngày 20/11/2021
+- Đưa ra mặt hàng được nhiều nhà cung cấp cung ứng và được nhiều khách hàng đặt hàng nhất (2 điều kiện đồng thời)
+- Đưa ra cặp tên mặt hàng và nhà cung cung cấp mà cung cấp sản phẩm đó với giá rẻ nhất 
+- Đưa ra thông tin shipper đang không nhận 1 giao 1 đơn hàng nào
+- Đưa ra thông tin top 5 khách hàng đặt hàng nhiều nhất
+- Đưa ra thông tin sản phẩm và tên khác hàng có đơn hàng phải giao hàng trong vòng 1 ngày
+- Đưa ra thông tin công ty và mặt hàng đắt nhất họ cung cấp
+- Đưa ra số tiền nhiều nhất 1 khách hàng phải trả và thông tin về khách hàng và số lượng hàng họ đặt (có thể thêm tên các mặt hàng họ đặt)
